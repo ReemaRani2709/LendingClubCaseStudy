@@ -11,8 +11,8 @@
 
 ## General Information
 - Background: Identify the factors which can cause loss in bussiness by approving loans for customer who can't repay it
-- Business Problem: Figure out risks associated with the bank’s decision,
-  -- Identify correct customer who are likely to repay the loan and add business profit,
+- Business Problem: Figure out risks associated with the bank’s decision,<br/>
+  -- Identify correct customer who are likely to repay the loan and add business profit <br/>
   -- Identify customer not likely to repay the loan and save bussiness from financial loss
 - Dataset: Loan dataset containg consumer and loan attributes along with several null columns
 
