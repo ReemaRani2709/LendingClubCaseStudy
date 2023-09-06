@@ -11,7 +11,7 @@
 
 ## General Information
 - Background: Identify the factors which can cause loss in bussiness by approving loans for customer who can't repay it
-- Business Problem: Risk Analysis of loan approval 
+- Business Problem: Figure out risks associated with the bank’s decision and Identify correct customer who are likely to repay the loan and add business profit, also identify customer not likely to repay the loan and save bussiness from financial loss
 - Dataset: Loan dataset containg consumer and loan attributes along with several null columns
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
